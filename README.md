@@ -69,7 +69,10 @@ My passion is **bridging strategy and execution** — turning complex supply cha
   * Implemented Lean-based container yard standards.
   * Reduced re-handling moves by 30%, boosting crane productivity.
 
-* **Vendor Relationship Streamlining (Sonatrach)**
+* **Vendor Relationship Streamlining (Sonatrach)***
+  
+[Helium Supply Chain Optimization  ](https://github.com/djalilben-ship-it/helium-supply-chain-optimization)
+
   *Supply Chain Optimization*
 
   * Designed procurement workflow improvements.
