@@ -69,6 +69,23 @@ My passion is **bridging strategy and execution** — turning complex supply cha
   * Implemented Lean-based container yard standards.
   * Reduced re-handling moves by 30%, boosting crane productivity.
 
+
+
+ **Sonatrach Helium Production Simulation**
+
+ Explore the repository here:  
+[**Production Simulation (Sonatrach)**](https://github.com/djalilben-ship-it/helios-simulation)
+ 
+-  Statistical analysis (variability, control charts)  
+-  Performance metrics (Availability, MTBF, MTTR, TRG)  
+-  Failure Mode and Effects Analysis (FMEA)  
+-  PSA process cycle simulation (state machine)  
+-  Supply chain simulation (baseline vs improved with new suppliers)  
+-  Fuzzy logic evaluation (project control level & yield)  
+
+
+
+
 * **Vendor Relationship Streamlining (Sonatrach)***
   
 [Helium Supply Chain Optimization  ](https://github.com/djalilben-ship-it/helium-supply-chain-optimization)
