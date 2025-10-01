@@ -5,7 +5,7 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 
 I’m a **Continuous Improvement & Supply Chain Analytics Professional** with a background in industrial engineering, logistics, and operations. I specialize in **streamlining production and distribution operations** by applying Lean Six Sigma and data analytics.
 
@@ -13,7 +13,7 @@ My passion is **bridging strategy and execution** — turning complex supply cha
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### **Freight Coordinator / Transitaire — Maersk, Oran**
 
@@ -44,9 +44,9 @@ My passion is **bridging strategy and execution** — turning complex supply cha
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-*## 📂 Featured Projects
+*##  Featured Projects
 
 - [Container Stacking Optimization (MSc Thesis)](https://github.com/djalilben-ship-it/PORT-Container-Stacking)  
   Optimized container yard operations at Port of Oran using Lean & Arena simulation.  
@@ -80,17 +80,17 @@ My passion is **bridging strategy and execution** — turning complex supply cha
 
 ---
 
-## 🚀 Currently Learning
+##  Currently Learning
 
-* ☁️ **Cloud Platforms** – AWS (Cloud Practitioner) & Azure Fundamentals
-* 📊 **Advanced Analytics** – Predictive modeling, Power BI advanced DAX
-* 🤖 **AI & Machine Learning in Logistics** – Demand forecasting, optimization
-* 📦 **APICS CPIM Certification (Part 1)** – Supply Chain Planning & Execution
-* 🎓 **MITx MicroMasters in Supply Chain Management** – In progress (2025 target)
+*  **Cloud Platforms** – AWS (Cloud Practitioner) & Azure Fundamentals
+*  **Advanced Analytics** – Predictive modeling, Power BI advanced DAX
+*  **AI & Machine Learning in Logistics** – Demand forecasting, optimization
+*  **APICS CPIM Certification (Part 1)** – Supply Chain Planning & Execution
+*  **MITx MicroMasters in Supply Chain Management** – In progress (2025 target)
 
 ---
 
-## 🎓 Education
+##  Education
 
 **MSc Industrial Engineering & Logistics**
 Ecole Supérieure des Sciences Appliquées de Tlemcen (ESSAT), Algeria
@@ -100,7 +100,7 @@ Ecole Supérieure des Sciences Appliquées de Tlemcen (ESSAT), Algeria
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 * Lean Six Sigma **Black Belt** – CSSC (2025)
 * Lean Six Sigma **Green Belt** – Alison (2023)
@@ -113,7 +113,7 @@ Ecole Supérieure des Sciences Appliquées de Tlemcen (ESSAT), Algeria
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 * **Continuous Improvement**: Lean, Six Sigma (DMAIC), Value Stream Mapping, Kaizen
 * **Analytics & Tools**: Power BI, Python, Forecasting, Simulation, Control Tower Dashboards
@@ -123,7 +123,7 @@ Ecole Supérieure des Sciences Appliquées de Tlemcen (ESSAT), Algeria
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 * National Engineering Scholarship (Top 10% Nationwide, 2021).
 * Designed logistics solutions adopted by 3 Algerian exporters (2021).
@@ -131,7 +131,7 @@ Ecole Supérieure des Sciences Appliquées de Tlemcen (ESSAT), Algeria
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 📧 Email: **[djalilb18896@gmail.com](mailto:djalilb18896@gmail.com)**
 🔗 [LinkedIn](https://linkedin.com/in/djalil-ben-h)
