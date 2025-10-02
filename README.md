@@ -62,7 +62,7 @@ My passion is **bridging strategy and execution** — turning complex supply cha
 This project focuses on **optimizing container flows** at a new terminal in Oran Port.  
 It includes equipment requirement calculations (quay cranes & trucks), yard optimization, and an interactive dashboard.
 
- [View the full project on GitHub](https://github.com/USERNAME/container_terminal_project)
+ [View the full project on GitHub](https://github.com/djalilben-ship-it/container_terminal_project)
 
 
 * **Power BI Dashboards (Maersk)**
