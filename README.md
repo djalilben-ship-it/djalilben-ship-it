@@ -57,6 +57,14 @@ My passion is **bridging strategy and execution** — turning complex supply cha
   * Redesigned stacking logic at Port of Oran to minimize re-handles and crane travel.
   * Improved throughput capacity and reduced waiting times significantly.
 
+##  Container Terminal yard Optimization Project
+
+This project focuses on **optimizing container flows** at a new terminal in Oran Port.  
+It includes equipment requirement calculations (quay cranes & trucks), yard optimization, and an interactive dashboard.
+
+ [View the full project on GitHub](https://github.com/USERNAME/container_terminal_project)
+
+
 * **Power BI Dashboards (Maersk)**
   *Business Intelligence & Operations Visibility*
 
