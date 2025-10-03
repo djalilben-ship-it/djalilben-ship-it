@@ -69,6 +69,17 @@ It includes equipment requirement calculations (quay cranes & trucks), yard opti
 
   * Built real-time dashboards that cut dwell time by 18%.
   * Enhanced SME clients’ visibility on container flow, reducing error rates.
+  * 
+##  Factory Performance Calculator
+**[Factory Performance Calculator](https://github.com/djalilben-ship-it/factory-performance-calculator)
+
+A Python desktop application based on *Factory Physics®* that calculates and analyzes 
+manufacturing system performance.  
+
+ Computes key KPIs: **Throughput (TH), Cycle Time (CT), Work-In-Progress (WIP), Bottleneck Rate (rb), Critical WIP (Wo)**  
+ Provides a **GUI (Tkinter)** for data input and visualization  
+ Exports results to **Excel** for reporting and analysis  
+ Validated with real case studies (Cardboard & White Paper companies)  
 
 * **Lean Yard Layout (Port of Oran)**
   *Continuous Improvement & Layout Redesign*
@@ -78,7 +89,7 @@ It includes equipment requirement calculations (quay cranes & trucks), yard opti
 
 
 
- **Sonatrach Helium Production Simulation**
+## Sonatrach Helium Production Simulation**
 
  Explore the repository here:  
 [**Production Simulation (Sonatrach)**](https://github.com/djalilben-ship-it/helios-simulation)
@@ -92,8 +103,7 @@ It includes equipment requirement calculations (quay cranes & trucks), yard opti
 
 
 
-
-* **Vendor Relationship Streamlining (Sonatrach)***
+##  Helium Supply Chain Optimization  (Sonatrach)***
   
 [Helium Supply Chain Optimization  ](https://github.com/djalilben-ship-it/helium-supply-chain-optimization)
 
