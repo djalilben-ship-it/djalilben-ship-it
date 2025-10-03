@@ -48,7 +48,7 @@ My passion is **bridging strategy and execution** — turning complex supply cha
 
 *##  Featured Projects
 
-- [Container Stacking Optimization (MSc Thesis)](https://github.com/djalilben-ship-it/PORT-Container-Stacking)  
+- [Container Stacking Optimization](https://github.com/djalilben-ship-it/PORT-Container-Stacking)  
   Optimized container yard operations at Port of Oran using Lean & Arena simulation.  
 
   *Lean & Simulation with Arena*
