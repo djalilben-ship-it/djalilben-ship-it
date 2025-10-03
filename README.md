@@ -50,14 +50,13 @@ My passion is **bridging strategy and execution** — turning complex supply cha
 
 - [Container Stacking Optimization (MSc Thesis)](https://github.com/djalilben-ship-it/PORT-Container-Stacking)  
   Optimized container yard operations at Port of Oran using Lean & Arena simulation.  
-  📄 [Download Thesis (PDF)](https://raw.githubusercontent.com/djalilben-ship-it/PORT-Container-Stacking/main/Container_Stacking_Thesis.pdf)
 
   *Lean & Simulation with Arena*
 
   * Redesigned stacking logic at Port of Oran to minimize re-handles and crane travel.
   * Improved throughput capacity and reduced waiting times significantly.
 
-##  Container Terminal yard Optimization Project
+## the new Terminal yard Optimization Project 
 
 This project focuses on **optimizing container flows** at a new terminal in Oran Port.  
 It includes equipment requirement calculations (quay cranes & trucks), yard optimization, and an interactive dashboard.
