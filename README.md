@@ -64,12 +64,16 @@ It includes equipment requirement calculations (quay cranes & trucks), yard opti
  [View the full project on GitHub](https://github.com/djalilben-ship-it/container_terminal_project)
 
 
-* **Power BI Dashboards (Maersk)**
-  *Business Intelligence & Operations Visibility*
+## Business Intelligence (BI) Solution to Optimize Logistics Performance in Import and Distribution
 
-  * Built real-time dashboards that cut dwell time by 18%.
-  * Enhanced SME clients’ visibility on container flow, reducing error rates.
-  * 
+
+[View the Project on GitHub →](https://github.com/djalilben-ship-it/business-Intelligence-BI-solution-to-optimize-logistics-performance-in-import-and-distribution.-/blob/main/README.md)
+
+###  Project Description
+This project presents a **Business Intelligence (BI)** solution built with **Microsoft Power BI** to optimize the **logistics and supply chain performance** of an automotive import and distribution company.  
+It includes interactive dashboards covering **Procurement**, **Storage & Distribution**, and **Financial** operations — helping management visualize key performance indicators (KPIs), identify inefficiencies, and make data-driven decisions in real time.
+
+
 ##  Factory Performance Calculator
 **[Factory Performance Calculator](https://github.com/djalilben-ship-it/factory-performance-calculator)
 
